@@ -25,6 +25,7 @@ O projeto contempla:
 📦 MyDIOProjectQA
  ┣ 📄 Cadastro usuario.png
  ┣ 📄 README.md
+ ┣ 📄 Casos de teste.pdf
  ┗ 📄 User story.pdf
 ```
 
