@@ -74,7 +74,7 @@ Outros usuários disponíveis no ambiente:
 
 Site oficial do ambiente de testes:
 
-[SauceDemo](https://www.saucedemo.com)
+* [SauceDemo](https://www.saucedemo.com)
 * Sudoku Wiki
 * DIO: https://web.dio.me
 * Bootcamp Almaviva Solutions - Back-end com Java & QA: https://www.dio.me/bootcamp/almaviva-back-end-com-java-qa
