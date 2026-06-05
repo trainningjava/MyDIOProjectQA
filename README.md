@@ -2,6 +2,10 @@
 
 Projeto desenvolvido durante os estudos de Quality Assurance (QA), com foco em testes manuais funcionais, documentação de requisitos, criação de User Stories, elaboração de Mind Maps, casos de teste e cenários BDD.
 
+## 🎓 Formação e Contexto do Projeto
+
+Este repositório foi desenvolvido durante minha participação no bootcamp Almaviva Solutions - Back-end com Java & QA, promovido pela DIO (Digital Innovation One).
+
 ## 🎯 Objetivo
 
 Aplicar conceitos de QA no contexto ágil, simulando atividades executadas por Analistas de Teste em projetos reais.
@@ -28,6 +32,50 @@ O projeto contempla:
  ┣ 📄 Casos de teste.pdf
  ┗ 📄 User story.pdf
 ```
+---
+
+Os artefatos de teste presentes neste repositório foram elaborados utilizando a aplicação SauceDemo como ambiente de prática para testes manuais.
+
+### Ambiente de Testes
+
+* Aplicação: SauceDemo
+* URL: https://www.saucedemo.com/
+* Tipo: Aplicação web para prática de testes
+* Objetivo: Simular cenários reais de autenticação, navegação, carrinho de compras e checkout.
+
+### Credenciais Disponíveis
+
+Usuário padrão:
+
+```text
+standard_user
+secret_sauce
+```
+
+Outros usuários disponíveis no ambiente:
+
+* standard_user
+* locked_out_user
+* problem_user
+* performance_glitch_user
+* error_user
+* visual_user
+
+### Funcionalidades Exploradas
+
+* Login de usuário
+* Validação de credenciais
+* Listagem de produtos
+* Carrinho de compras
+* Checkout
+* Fluxo completo de compra
+
+### Referência
+
+Site oficial do ambiente de testes:
+
+[SauceDemo](https://www.saucedemo.com/?utm_source=chatgpt.com)
+
 
 ---
 
